@@ -1,0 +1,10 @@
+1.- Crear la clase.
+2.- Crear la tabla sqlite
+3.- Adicionar el fragmento ,con su reciclerview en el layout
+4.- Crear el layout con el car view del objeto
+5.- Crear el Constructor en el modelo
+6.- Crear el adaptador
+7.- Crear la clase presentador, enlazandola con el fragmento y el modelo (metodos, obtner registros y mostrar registros)
+8.- Crear los metodos  generar layout , crear adaptador e inicializar adaptador en el fragmento
+9.- Completar los metodos obtener registros y mostrar registros del presentador.
+
